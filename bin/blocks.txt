@@ -1,8 +1,0 @@
-1:		Dirt
-2:		DirtGrass
-3.		etc
-4.		etc
-5.		etc
-6. 		etc
-----
-20:		Stone
